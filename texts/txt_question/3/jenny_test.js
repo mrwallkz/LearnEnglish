@@ -123,7 +123,7 @@
       correctAnswer: "a"
     },
     {
-      question: "Her father was constantly forgetting where he had put his hat and a water bottle.___",
+      question: "Her father was constantly forgetting where he had put his hat and a water bottle.",
       answers: {
         a: "True",
         b: "False",
