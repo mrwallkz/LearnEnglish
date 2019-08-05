@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Learn english</title>
+
+
+  <link rel="stylesheet" type="text/css" href="../../../style.css">
+  <link rel="shortcut icon" type="image/x-icon" href="https://cdn1.iconfinder.com/data/icons/major-world-flags-1/512/uk_britain_united_kingdom-512.png" />
+  <link href="https://fonts.googleapis.com/css?family=Fredoka+One|Roboto" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+
+  <script src="menu_script.js"></script>
+<style type="text/css">
+  @media only screen and (min-width: 481px) and (max-width: 959px) {
+  .text_pick{
+  margin: 0 10%;
+}
+.question{
+          font-size: 81%;
+        }
+.submit_button{
+          font-size: 180%;
+        }
+        .radio_select{
+           font-size: 85%;
+        }
+}
+@media only screen and (min-width: 960px) and (max-width: 1439px){
+.text_pick{
+  margin: 0 10%;
+}
+ .question{
+          font-size: 84%;
+        }
+        .submit_button{
+          font-size: 200%;
+        }
+        .radio_select{
+          font-size: 90%;
+        }
+     }
+     @media only screen and (min-width: 1440px){
+        .submit_button{
+          font-size: 210%;
+        }
+         .question{
+          font-size: 88%;
+        }
+     }
+
+</style>
+</head>
+<body class="main_body">
+  <header > 
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark" style="height:45px;">
+    
+     <ul class="navbar-nav"  >
+    <li class="nav-item">
+      <a class="nav-link"   href="../../../index.html">На головну</a>
+    </li>
+  </ul>  
+    </nav>
+    </header>
+<main class="main">
+<div class="text_pick">Sports in Ukraine</div>
+<div class="audio_div">
+<audio class="audio_class" controls >
+  <source src="ukr_sport.mp3" type="audio/mp3">
+</audio></div>
+<div class="question_category" style="margin-top: 8.5%;">Questions</div>
+  <form class="question_block">
+    <ol class="question_list">
+ <div id="quiz" class="question_div"></div>
+<div id="results"></div>
+</ol>
+<button type="button"  id="sub" class="submit_button" style="transform: translateY(82.5%);" > Готово</button>
+<script src="ukr_sport_test.js"></script>
+</form>
+</main>
+<div style="height: 100px;"></div>
+<footer class="footer_fixed">
+ <div class="bg-dark mbottom"> 
+© 2019 All Rights Reserved 
+ 
+ </div>
+ </footer>  
+</body>
+</html>
