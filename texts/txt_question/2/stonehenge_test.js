@@ -75,7 +75,7 @@
   const subButton = document.getElementById("sub");
   const myQuestions = [
      {
-      question: "A man took my things.",
+      question: "Stonehenge is arranged in the shape of two large squares.",
       answers: {
         a: "True",
         b: "False",
@@ -83,7 +83,7 @@
       correctAnswer: "b"
     },
     {
-      question: "The teacher took me into a short room.",
+      question: "Stonehenge is located very far from any cities or towns.",
       answers: {
         a: "True",
         b: "False",
@@ -91,98 +91,26 @@
       correctAnswer: "b"
     },
      {
-      question: "Girls sat on chairs. It was very cold in the room",
-      answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "b"
-    },
-    {
-      question: "We didn’t go into the windy garden.",
-      answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "b"
-    },
-    {
-      question: "The water in the washroom wasn’t warm.",
+      question: "It was originally built to be a religious temple.",
       answers: {
         a: "True",
         b: "False",
       },
       correctAnswer: "a"
     },
-     {
-      question: "For dinner we had some bad meat and potatoes.",
+    {
+      question: "At one point Stonehenge was completely rebuilt.",
       answers: {
         a: "True",
         b: "False",
       },
       correctAnswer: "a"
     },
-
-
-
-
-
-
-     {
-      question: "The room was with many…",
-      answers: {
-        a: "chairs",
-        b: "windows",
-        c: "tables",
-       
-      },
-      correctAnswer: "c"
-    },
     {
-      question: "The girls were dressed in…",
+      question: "This monument is somehow connected to the sun.",
       answers: {
-        a: "uniforms",
-        b: "dresses ",
-        c: "skirts and blouses",
-        
-      },
-      correctAnswer: "a"
-    },
-
-    {
-      question: "We had a piece of bread …",
-      answers: {
-        a: "for supper",
-        b: "for dinner",
-        c: "for lunch",
-      },
-      correctAnswer: "a"
-    },
-    {
-      question: "We read…",
-      answers: {
-        a: "the Bible",
-        b: "the text",
-        c: "the book",
-      },
-      correctAnswer: "a"
-    },
-    {
-      question: "In May school wasn’t…",
-      answers: {
-        a: "a sad place",
-        b: "a hospital",
-        c: "a happy place",
-      },
-      correctAnswer: "c"
-    },
-
-    {
-      question: "Many pupils didn’t…",
-      answers: {
-        a: "feel fine",
-        b: "go home",
-        c: "go from the school to die",
+        a: "True",
+        b: "False",
       },
       correctAnswer: "a"
     },

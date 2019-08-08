@@ -75,117 +75,56 @@
   const subButton = document.getElementById("sub");
   const myQuestions = [
      {
-      question: "A man took my things.",
+      question: "1.  ...",
       answers: {
-        a: "True",
-        b: "False",
+        a: "always ",
+        b: "still",
+        c: "again",
+        d: "yet",
       },
       correctAnswer: "b"
     },
     {
-      question: "The teacher took me into a short room.",
+      question: "2.  ...",
       answers: {
-        a: "True",
-        b: "False",
+        a: "nuisance",
+        b: "effect",
+        c: "trouble",
+        d: "affect",
       },
-      correctAnswer: "b"
+      correctAnswer: "d"
     },
      {
-      question: "Girls sat on chairs. It was very cold in the room",
+      question: "3.  ...",
       answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "b"
-    },
-    {
-      question: "We didn’t go into the windy garden.",
-      answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "b"
-    },
-    {
-      question: "The water in the washroom wasn’t warm.",
-      answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "a"
-    },
-     {
-      question: "For dinner we had some bad meat and potatoes.",
-      answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "a"
-    },
-
-
-
-
-
-
-     {
-      question: "The room was with many…",
-      answers: {
-        a: "chairs",
-        b: "windows",
-        c: "tables",
-       
+        a: "another",
+        b: "left",
+        c: "other",
+        d: "rest",
       },
       correctAnswer: "c"
     },
     {
-      question: "The girls were dressed in…",
+      question: "4.  ...",
       answers: {
-        a: "uniforms",
-        b: "dresses ",
-        c: "skirts and blouses",
-        
+        a: "farther",
+        b: "later",
+        c: "further",
+        d: "longer",
       },
-      correctAnswer: "a"
-    },
-
-    {
-      question: "We had a piece of bread …",
-      answers: {
-        a: "for supper",
-        b: "for dinner",
-        c: "for lunch",
-      },
-      correctAnswer: "a"
+      correctAnswer: "d"
     },
     {
-      question: "We read…",
+      question: "5.  ...",
       answers: {
-        a: "the Bible",
-        b: "the text",
-        c: "the book",
+        a: "engaged",
+        b: "worked on ",
+        c: "contemplated",
+        d: "attempted",
       },
-      correctAnswer: "a"
+      correctAnswer: "d"
     },
-    {
-      question: "In May school wasn’t…",
-      answers: {
-        a: "a sad place",
-        b: "a hospital",
-        c: "a happy place",
-      },
-      correctAnswer: "c"
-    },
-
-    {
-      question: "Many pupils didn’t…",
-      answers: {
-        a: "feel fine",
-        b: "go home",
-        c: "go from the school to die",
-      },
-      correctAnswer: "a"
-    },
+    
   ];
 
 

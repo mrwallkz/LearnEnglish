@@ -75,116 +75,54 @@
   const subButton = document.getElementById("sub");
   const myQuestions = [
      {
-      question: "A man took my things.",
+      question: "This text is about...",
       answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "b"
-    },
-    {
-      question: "The teacher took me into a short room.",
-      answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "b"
-    },
-     {
-      question: "Girls sat on chairs. It was very cold in the room",
-      answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "b"
-    },
-    {
-      question: "We didn’t go into the windy garden.",
-      answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "b"
-    },
-    {
-      question: "The water in the washroom wasn’t warm.",
-      answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "a"
-    },
-     {
-      question: "For dinner we had some bad meat and potatoes.",
-      answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "a"
-    },
-
-
-
-
-
-
-     {
-      question: "The room was with many…",
-      answers: {
-        a: "chairs",
-        b: "windows",
-        c: "tables",
-       
+        a: "Christmas presents",
+        b: "Father Christmas",
+        c: "Christmas celebrations",
+        d: "the Christmas tree",
       },
       correctAnswer: "c"
     },
     {
-      question: "The girls were dressed in…",
+      question: "When Christmas comes, the children are given presents... ",
       answers: {
-        a: "uniforms",
-        b: "dresses ",
-        c: "skirts and blouses",
-        
+        a: "at the Christmas table",
+        b: "in the streets",
+        c: "at schools",
+        d: "at home",
       },
-      correctAnswer: "a"
+      correctAnswer: "d"
     },
-
-    {
-      question: "We had a piece of bread …",
+     {
+      question: "Which sentence is wrong?",
       answers: {
-        a: "for supper",
-        b: "for dinner",
-        c: "for lunch",
-      },
-      correctAnswer: "a"
-    },
-    {
-      question: "We read…",
-      answers: {
-        a: "the Bible",
-        b: "the text",
-        c: "the book",
-      },
-      correctAnswer: "a"
-    },
-    {
-      question: "In May school wasn’t…",
-      answers: {
-        a: "a sad place",
-        b: "a hospital",
-        c: "a happy place",
+        a: "Christmas is a family holiday",
+        b: "Presents are usually given at Christmas",
+        c: "At Christmas, children usually don't go to sleep",
+        d: "Children find their presents near their beds, under the Christmas tree or in a stocking.",
       },
       correctAnswer: "c"
     },
-
     {
-      question: "Many pupils didn’t…",
+      question: "Choose a title",
       answers: {
-        a: "feel fine",
-        b: "go home",
-        c: "go from the school to die",
+        a: "British Children",
+        b: "British Christmas",
+        c: "Christmas parties",
+        d: "British Homes",
       },
-      correctAnswer: "a"
+      correctAnswer: "b"
+    },
+    {
+      question: "Find the word which is not in the text",
+      answers: {
+        a: "Christmas",
+        b: "Presents",
+        c: "Easter ",
+        d: "Eve",
+      },
+      correctAnswer: "c"
     },
   ];
 

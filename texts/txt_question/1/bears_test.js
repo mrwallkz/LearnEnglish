@@ -75,117 +75,102 @@
   const subButton = document.getElementById("sub");
   const myQuestions = [
      {
-      question: "A man took my things.",
+      question: "A bear has small eyes.",
       answers: {
         a: "True",
         b: "False",
-      },
-      correctAnswer: "b"
-    },
-    {
-      question: "The teacher took me into a short room.",
-      answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "b"
-    },
-     {
-      question: "Girls sat on chairs. It was very cold in the room",
-      answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "b"
-    },
-    {
-      question: "We didn’t go into the windy garden.",
-      answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "b"
-    },
-    {
-      question: "The water in the washroom wasn’t warm.",
-      answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "a"
-    },
-     {
-      question: "For dinner we had some bad meat and potatoes.",
-      answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "a"
-    },
-
-
-
-
-
-
-     {
-      question: "The room was with many…",
-      answers: {
-        a: "chairs",
-        b: "windows",
-        c: "tables",
-       
+        c: "Doesn't say",
       },
       correctAnswer: "c"
     },
     {
-      question: "The girls were dressed in…",
+      question: "Bears can be black.",
       answers: {
-        a: "uniforms",
-        b: "dresses ",
-        c: "skirts and blouses",
-        
+        a: "True",
+        b: "False",
+        c: "Doesn't say",
       },
       correctAnswer: "a"
+    },
+     {
+      question: "Bears don’t live in Europe.",
+      answers: {
+        a: "True",
+        b: "False",
+        c: "Doesn't say",
+      },
+      correctAnswer: "b"
+    },
+    {
+      question: "They live in groups.",
+      answers: {
+        a: "True",
+        b: "False",
+        c: "Doesn't say",
+      },
+      correctAnswer: "b"
+    },
+    {
+      question: "Mother bear has more than five babies.",
+      answers: {
+        a: "True",
+        b: "False",
+        c: "Doesn't say",
+      },
+      correctAnswer: "b"
     },
 
-    {
-      question: "We had a piece of bread …",
+
+
+
+     {
+      question: "Baby bears are born in the winter.",
       answers: {
-        a: "for supper",
-        b: "for dinner",
-        c: "for lunch",
+        a: "True",
+        b: "False",
+        c: "Doesn't say",
       },
       correctAnswer: "a"
     },
     {
-      question: "We read…",
+      question: "Baby bears live with their father.",
       answers: {
-        a: "the Bible",
-        b: "the text",
-        c: "the book",
+        a: "True",
+        b: "False",
+        c: "Doesn't say",
       },
-      correctAnswer: "a"
+      correctAnswer: "b"
     },
     {
-      question: "In May school wasn’t…",
+      question: "Baby bears hunt with their mother.",
       answers: {
-        a: "a sad place",
-        b: "a hospital",
-        c: "a happy place",
+        a: "True",
+        b: "False",
+        c: "Doesn't say",
       },
       correctAnswer: "c"
     },
-
     {
-      question: "Many pupils didn’t…",
+      question: "Bears eat a lot before winter.",
       answers: {
-        a: "feel fine",
-        b: "go home",
-        c: "go from the school to die",
+        a: "True",
+        b: "False",
+        c: "Doesn't say",
       },
       correctAnswer: "a"
     },
+    {
+      question: "Bears are never dangerous.",
+      answers: {
+        a: "True",
+        b: "False",
+        c: "Doesn't say",
+      },
+      correctAnswer: "b"
+    },
+    
+
+  
   ];
 
 

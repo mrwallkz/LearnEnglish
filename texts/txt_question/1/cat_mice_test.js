@@ -75,7 +75,7 @@
   const subButton = document.getElementById("sub");
   const myQuestions = [
      {
-      question: "A man took my things.",
+      question: "A cat lives in a big house.",
       answers: {
         a: "True",
         b: "False",
@@ -83,7 +83,7 @@
       correctAnswer: "b"
     },
     {
-      question: "The teacher took me into a short room.",
+      question: "The cat eats a lot of mice every day.",
       answers: {
         a: "True",
         b: "False",
@@ -91,7 +91,7 @@
       correctAnswer: "b"
     },
      {
-      question: "Girls sat on chairs. It was very cold in the room",
+      question: "On his birthday the cat eats only one mouse.",
       answers: {
         a: "True",
         b: "False",
@@ -99,23 +99,15 @@
       correctAnswer: "b"
     },
     {
-      question: "We didn’t go into the windy garden.",
-      answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "b"
-    },
-    {
-      question: "The water in the washroom wasn’t warm.",
+      question: "The cat is glad to see the mice at his birthday.",
       answers: {
         a: "True",
         b: "False",
       },
       correctAnswer: "a"
     },
-     {
-      question: "For dinner we had some bad meat and potatoes.",
+    {
+      question: "The mice bring presents for the cat.",
       answers: {
         a: "True",
         b: "False",
@@ -126,66 +118,54 @@
 
 
 
-
-
      {
-      question: "The room was with many…",
+      question: "Every year … come to the cat’s birthday.",
       answers: {
-        a: "chairs",
-        b: "windows",
-        c: "tables",
-       
+        a: "aone or two mice",
+        b: "ball the mice",
+        c: "some mice",
+      },
+      correctAnswer: "b"
+    },
+    {
+      question: "They give presents for him",
+      answers: {
+        a: "chocolates.",
+        b: "fish.",
+        c: "cakes, bottles of milk and interesting toys.",
       },
       correctAnswer: "c"
     },
     {
-      question: "The girls were dressed in…",
+      question: "Last year mice gave him … as birthday present.",
       answers: {
-        a: "uniforms",
-        b: "dresses ",
-        c: "skirts and blouses",
-        
-      },
-      correctAnswer: "a"
-    },
-
-    {
-      question: "We had a piece of bread …",
-      answers: {
-        a: "for supper",
-        b: "for dinner",
-        c: "for lunch",
+        a: "a ribbon with a small bell",
+        b: "a cathouse",
+        c: "a book with pictures",
       },
       correctAnswer: "a"
     },
     {
-      question: "We read…",
+      question: "The cat was glad because",
       answers: {
-        a: "the Bible",
-        b: "the text",
-        c: "the book",
+        a: "the mice came to see him.",
+        b: "he liked the ribbon with the bell.",
+        c: "the ribbon was nice and pink.",
       },
-      correctAnswer: "a"
+      correctAnswer: "b"
     },
     {
-      question: "In May school wasn’t…",
+      question: "The mice were happy because",
       answers: {
-        a: "a sad place",
-        b: "a hospital",
-        c: "a happy place",
+        a: "the cat was glad.",
+        b: "the ribbon was nice.",
+        c: "the cat was going to wear the ribbon with the bell.",
       },
       correctAnswer: "c"
     },
+    
 
-    {
-      question: "Many pupils didn’t…",
-      answers: {
-        a: "feel fine",
-        b: "go home",
-        c: "go from the school to die",
-      },
-      correctAnswer: "a"
-    },
+  
   ];
 
 

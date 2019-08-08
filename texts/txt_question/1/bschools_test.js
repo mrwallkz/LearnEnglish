@@ -75,7 +75,7 @@
   const subButton = document.getElementById("sub");
   const myQuestions = [
      {
-      question: "A man took my things.",
+      question: "In Great Britain boys and girls begin to go to school when they are six.",
       answers: {
         a: "True",
         b: "False",
@@ -83,31 +83,7 @@
       correctAnswer: "b"
     },
     {
-      question: "The teacher took me into a short room.",
-      answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "b"
-    },
-     {
-      question: "Girls sat on chairs. It was very cold in the room",
-      answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "b"
-    },
-    {
-      question: "We didn’t go into the windy garden.",
-      answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "b"
-    },
-    {
-      question: "The water in the washroom wasn’t warm.",
+      question: "English schools work five days a week.",
       answers: {
         a: "True",
         b: "False",
@@ -115,77 +91,81 @@
       correctAnswer: "a"
     },
      {
-      question: "For dinner we had some bad meat and potatoes.",
+      question: "On Saturdays and Sundays pupils have only one lesson at school.",
       answers: {
         a: "True",
         b: "False",
       },
-      correctAnswer: "a"
+      correctAnswer: "b"
+    },
+    {
+      question: "There no primary schools in Great Britain.",
+      answers: {
+        a: "True",
+        b: "False",
+      },
+      correctAnswer: "b"
+    },
+    {
+      question: "Children go to primary schools till they are 12.",
+      answers: {
+        a: "True",
+        b: "False",
+      },
+      correctAnswer: "b"
     },
 
 
 
 
-
-
      {
-      question: "The room was with many…",
+      question: "In Great Britain there are",
       answers: {
-        a: "chairs",
-        b: "windows",
-        c: "tables",
-       
+        a: "no primary schools.",
+        b: "primary and secondary schools.",
+        c: "only primary school.",
+      },
+      correctAnswer: "b"
+    },
+    {
+      question: "English children begin to go to a secondary school",
+      answers: {
+        a: "when they are 11 or 12.",
+        b: "when they are 9 or 10.",
+        c: "when they are 5 or 6.",
+      },
+      correctAnswer: "a"
+    },
+    {
+      question: "In Britain there are secondary schools",
+      answers: {
+        a: "only for boys.",
+        b: "only for girls.",
+        c: "for boys and girls, only for boys, only for girls.",
       },
       correctAnswer: "c"
     },
     {
-      question: "The girls were dressed in…",
+      question: "Some schools prepare pupils",
       answers: {
-        a: "uniforms",
-        b: "dresses ",
-        c: "skirts and blouses",
-        
+        a: "for sports and work.",
+        b: "for work and university.",
+        c: "for university.",
       },
-      correctAnswer: "a"
-    },
-
-    {
-      question: "We had a piece of bread …",
-      answers: {
-        a: "for supper",
-        b: "for dinner",
-        c: "for lunch",
-      },
-      correctAnswer: "a"
+      correctAnswer: "b"
     },
     {
-      question: "We read…",
+      question: "All  schoolchildren wear",
       answers: {
-        a: "the Bible",
-        b: "the text",
-        c: "the book",
-      },
-      correctAnswer: "a"
-    },
-    {
-      question: "In May school wasn’t…",
-      answers: {
-        a: "a sad place",
-        b: "a hospital",
-        c: "a happy place",
+        a: "dark grey uniforms.",
+        b: "blouses and skirts.",
+        c: "uniforms at schools.",
       },
       correctAnswer: "c"
     },
+    
 
-    {
-      question: "Many pupils didn’t…",
-      answers: {
-        a: "feel fine",
-        b: "go home",
-        c: "go from the school to die",
-      },
-      correctAnswer: "a"
-    },
+  
   ];
 
 

@@ -75,116 +75,104 @@
   const subButton = document.getElementById("sub");
   const myQuestions = [
      {
-      question: "A man took my things.",
+      question: "The passage mainly discusses",
       answers: {
-        a: "True",
-        b: "False",
+        a: "Noah Webster's literary heritage",
+        b: "the varieties of spelling",
+        c: "Webster's political preferences",
+        d: "popular schoolbooks in America",
       },
       correctAnswer: "b"
     },
     {
-      question: "The teacher took me into a short room.",
+      question: "The passage implies that written British and American words",
       answers: {
-        a: "True",
-        b: "False",
+        a: "look absolutely different",
+        b: "are absolutely the same",
+        c: "may differ",
+        d: "come from Canada",
       },
-      correctAnswer: "b"
+      correctAnswer: "c"
     },
      {
-      question: "Girls sat on chairs. It was very cold in the room",
+      question: "It may be inferred from the passage that Webster's scientific interest was in",
       answers: {
-        a: "True",
-        b: "False",
+        a: "standards",
+        b: "vocabulary",
+        c: "editing books",
+        d: "political reforms",
       },
       correctAnswer: "b"
     },
     {
-      question: "We didn’t go into the windy garden.",
+      question: "The changes between American and British English were generated",
       answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "b"
-    },
-    {
-      question: "The water in the washroom wasn’t warm.",
-      answers: {
-        a: "True",
-        b: "False",
+        a: "on purpose",
+        b: "by accident",
+        c: "in Canada",
+        d: "by politicians",
       },
       correctAnswer: "a"
     },
-     {
-      question: "For dinner we had some bad meat and potatoes.",
+    {
+      question: "The word \"subsequent\" in line 4 may most probably mean the following",
       answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "a"
-    },
-
-
-
-
-
-
-     {
-      question: "The room was with many…",
-      answers: {
-        a: "chairs",
-        b: "windows",
-        c: "tables",
-       
+        a: "different",
+        b: "expensive",
+        c: "following",
+        d: "literary",
       },
       correctAnswer: "c"
     },
     {
-      question: "The girls were dressed in…",
+      question: "One can make a conclusion that Webster's changes",
       answers: {
-        a: "uniforms",
-        b: "dresses ",
-        c: "skirts and blouses",
-        
-      },
-      correctAnswer: "a"
-    },
-
-    {
-      question: "We had a piece of bread …",
-      answers: {
-        a: "for supper",
-        b: "for dinner",
-        c: "for lunch",
+        a: "simplified the language",
+        b: "were of no importance",
+        c: "made the language more difficult for understanding",
+        d: "developed the language used in Great Britain",
       },
       correctAnswer: "a"
     },
     {
-      question: "We read…",
+      question: "The word \"mirrored\" in middle of text in meaning to",
       answers: {
-        a: "the Bible",
-        b: "the text",
-        c: "the book",
+        a: "portrayed",
+        b: "reflected",
+        c: "generated",
+        d: "prevented",
       },
-      correctAnswer: "a"
+      correctAnswer: "b"
     },
     {
-      question: "In May school wasn’t…",
+      question: "It can be seen from the passage that the changes brought into American  English must have",
       answers: {
-        a: "a sad place",
-        b: "a hospital",
-        c: "a happy place",
+        a: "developed a completely new language",
+        b: "stopped using dictionaries",
+        c: "required spelling books",
+        d: "influenced the original British English",
+      },
+      correctAnswer: "d"
+    },
+    {
+      question: "The passage states that in Canada",
+      answers: {
+        a: "people use the only variety of the English language",
+        b: "people live only in the east and the west of the country",
+        c: "there may be language misunderstanding between people from different regions of the country",
+        d: "people use different grammar rules compared to the US",
       },
       correctAnswer: "c"
     },
-
     {
-      question: "Many pupils didn’t…",
+      question: "The passage implies that of the two books mentioned in it",
       answers: {
-        a: "feel fine",
-        b: "go home",
-        c: "go from the school to die",
+        a: "neither was published",
+        b: "both were printed at the same time",
+        c: "the Spelling Book was published before the Dictionary",
+        d: "the Dictionary was published before the Spelling Book",
       },
-      correctAnswer: "a"
+      correctAnswer: "c"
     },
   ];
 

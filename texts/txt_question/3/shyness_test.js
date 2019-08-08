@@ -75,117 +75,56 @@
   const subButton = document.getElementById("sub");
   const myQuestions = [
      {
-      question: "A man took my things.",
+      question: "What do scientists believe?",
       answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "b"
-    },
-    {
-      question: "The teacher took me into a short room.",
-      answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "b"
-    },
-     {
-      question: "Girls sat on chairs. It was very cold in the room",
-      answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "b"
-    },
-    {
-      question: "We didn’t go into the windy garden.",
-      answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "b"
-    },
-    {
-      question: "The water in the washroom wasn’t warm.",
-      answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "a"
-    },
-     {
-      question: "For dinner we had some bad meat and potatoes.",
-      answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "a"
-    },
-
-
-
-
-
-
-     {
-      question: "The room was with many…",
-      answers: {
-        a: "chairs",
-        b: "windows",
-        c: "tables",
-       
+        a: "Only a few people possess the shyness gene",
+        b: "Shyness depends on height",
+        c: "Everybody is shy",
+        d: "People can learn to manage shyness",
       },
       correctAnswer: "c"
     },
     {
-      question: "The girls were dressed in…",
+      question: "What happens to shy people in a stressful situation?",
       answers: {
-        a: "uniforms",
-        b: "dresses ",
-        c: "skirts and blouses",
-        
+        a: "They keep talking for a long time",
+        b: "Their heart rate increases",
+        c: "Their legs can no longer support them",
+        d: "They start talking about difficult subjects",
       },
-      correctAnswer: "a"
+      correctAnswer: "b"
     },
-
-    {
-      question: "We had a piece of bread …",
+     {
+      question: "What does “this” refer to?.",
       answers: {
-        a: "for supper",
-        b: "for dinner",
-        c: "for lunch",
-      },
-      correctAnswer: "a"
-    },
-    {
-      question: "We read…",
-      answers: {
-        a: "the Bible",
-        b: "the text",
-        c: "the book",
-      },
-      correctAnswer: "a"
-    },
-    {
-      question: "In May school wasn’t…",
-      answers: {
-        a: "a sad place",
-        b: "a hospital",
-        c: "a happy place",
+        a: "shyness",
+        b: "recognizing others’ shyness",
+        c: "blushing",
+        d: "judging others",
       },
       correctAnswer: "c"
     },
-
     {
-      question: "Many pupils didn’t…",
+      question: "Why do shy people become more reserved?",
       answers: {
-        a: "feel fine",
-        b: "go home",
-        c: "go from the school to die",
+        a: "Their social unease makes them more difficult to talk to",
+        b: "They see that others are shy too",
+        c: "Other people lack the patience to talk to them",
+        d: "Other people judge them",
       },
       correctAnswer: "a"
     },
+    {
+      question: "What do experts believe is the answer to shyness?",
+      answers: {
+        a: "Studying others in social situations to see how they act",
+        b: "Discovering shared interests with others",
+        c: "Comparing yourself to other people",
+        d: "Finding out what makes other people shy",
+      },
+      correctAnswer: "b"
+    },
+    
   ];
 
 

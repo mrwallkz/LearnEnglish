@@ -75,7 +75,7 @@
   const subButton = document.getElementById("sub");
   const myQuestions = [
      {
-      question: "A man took my things.",
+      question: "Simon and his parents lived in England.",
       answers: {
         a: "True",
         b: "False",
@@ -83,31 +83,7 @@
       correctAnswer: "b"
     },
     {
-      question: "The teacher took me into a short room.",
-      answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "b"
-    },
-     {
-      question: "Girls sat on chairs. It was very cold in the room",
-      answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "b"
-    },
-    {
-      question: "We didn’t go into the windy garden.",
-      answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "b"
-    },
-    {
-      question: "The water in the washroom wasn’t warm.",
+      question: "Simon decided to put new trees in the ground.",
       answers: {
         a: "True",
         b: "False",
@@ -115,76 +91,52 @@
       correctAnswer: "a"
     },
      {
-      question: "For dinner we had some bad meat and potatoes.",
+      question: "Simon had a little dog for a pet.",
+      answers: {
+        a: "True",
+        b: "False",
+      },
+      correctAnswer: "b"
+    },
+    {
+      question: "Simon’s father helped him to open the chest.",
+      answers: {
+        a: "True",
+        b: "False",
+      },
+      correctAnswer: "b"
+    },
+    {
+      question: "The Daltons went to the beach in autumn.",
+      answers: {
+        a: "True",
+        b: "False",
+      },
+      correctAnswer: "b"
+    },
+    {
+      question: "It was difficult to pull the box out of the ground.",
       answers: {
         a: "True",
         b: "False",
       },
       correctAnswer: "a"
     },
-
-
-
-
-
-
-     {
-      question: "The room was with many…",
+    {
+      question: "The box that Simon found was made of gold.",
       answers: {
-        a: "chairs",
-        b: "windows",
-        c: "tables",
-       
+        a: "True",
+        b: "False",
       },
-      correctAnswer: "c"
+      correctAnswer: "b"
     },
     {
-      question: "The girls were dressed in…",
+      question: "The Daltons kept the treasure at home. ",
       answers: {
-        a: "uniforms",
-        b: "dresses ",
-        c: "skirts and blouses",
-        
+        a: "True",
+        b: "False",
       },
-      correctAnswer: "a"
-    },
-
-    {
-      question: "We had a piece of bread …",
-      answers: {
-        a: "for supper",
-        b: "for dinner",
-        c: "for lunch",
-      },
-      correctAnswer: "a"
-    },
-    {
-      question: "We read…",
-      answers: {
-        a: "the Bible",
-        b: "the text",
-        c: "the book",
-      },
-      correctAnswer: "a"
-    },
-    {
-      question: "In May school wasn’t…",
-      answers: {
-        a: "a sad place",
-        b: "a hospital",
-        c: "a happy place",
-      },
-      correctAnswer: "c"
-    },
-
-    {
-      question: "Many pupils didn’t…",
-      answers: {
-        a: "feel fine",
-        b: "go home",
-        c: "go from the school to die",
-      },
-      correctAnswer: "a"
+      correctAnswer: "b"
     },
   ];
 

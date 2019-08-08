@@ -75,7 +75,7 @@
   const subButton = document.getElementById("sub");
   const myQuestions = [
      {
-      question: "A man took my things.",
+      question: "At six o’clock in the morning, they were out of sight of land.",
       answers: {
         a: "True",
         b: "False",
@@ -83,31 +83,7 @@
       correctAnswer: "b"
     },
     {
-      question: "The teacher took me into a short room.",
-      answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "b"
-    },
-     {
-      question: "Girls sat on chairs. It was very cold in the room",
-      answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "b"
-    },
-    {
-      question: "We didn’t go into the windy garden.",
-      answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "b"
-    },
-    {
-      question: "The water in the washroom wasn’t warm.",
+      question: "On Sunday it was very cold.",
       answers: {
         a: "True",
         b: "False",
@@ -115,7 +91,31 @@
       correctAnswer: "a"
     },
      {
-      question: "For dinner we had some bad meat and potatoes.",
+      question: "The sun gradually sinking in the west.",
+      answers: {
+        a: "True",
+        b: "False",
+      },
+      correctAnswer: "a"
+    },
+    {
+      question: "The traveller saw whales spouting on Sunday morning.",
+      answers: {
+        a: "True",
+        b: "False",
+      },
+      correctAnswer: "b"
+    },
+    {
+      question: "In a moment the deck was cleared.",
+      answers: {
+        a: "True",
+        b: "False",
+      },
+      correctAnswer: "a"
+    },
+     {
+      question: "The people on the ship saw the iceberg in summer.",
       answers: {
         a: "True",
         b: "False",
@@ -127,64 +127,66 @@
 
 
 
-
      {
-      question: "The room was with many…",
+      question: "At four o'clock in the afternoon",
       answers: {
-        a: "chairs",
-        b: "windows",
-        c: "tables",
-       
+        a: "we were out of sight of land",
+        b: "we couldn't see land",
+        c: "we saw an iceberg",
+        d: "we set sail",
+      },
+      correctAnswer: "a"
+    },
+    {
+      question: "The traveller used many words to describe the first day of the journey, EXCEPT",
+      answers: {
+        a: "long",
+        b: "inspiring",
+        c: "magnificent",
+        d: "solemn",
+      },
+      correctAnswer: "a"
+    },
+    {
+      question: "On the first evening of the journey the traveller noticed how the moon",
+      answers: {
+        a: "was full",
+        b: "touched the waters",
+        c: "was low on the horizon",
+        d: "was dancing in the sky",
+      },
+      correctAnswer: "b"
+    },
+    {
+      question: "On Sunday the weather was",
+      answers: {
+        a: "warm and windy",
+        b: "cold and still",
+        c: "warm and still",
+        d: "cold and windy",
+      },
+      correctAnswer: "d"
+    },
+
+    {
+      question: "On Sunday the traveller decided to stay on deck in order to",
+      answers: {
+        a: "breathe the fresh salty air",
+        b: "have breakfast",
+        c: "avoide sickness",
+        d: "see the Steamship America",
       },
       correctAnswer: "c"
     },
     {
-      question: "The girls were dressed in…",
+      question: "All of these words were used to describe the iceberg EXCEPT",
       answers: {
-        a: "uniforms",
-        b: "dresses ",
-        c: "skirts and blouses",
-        
+        a: "calm",
+        b: "white",
+        c: "lonely",
+        d: "Enormous",
       },
-      correctAnswer: "a"
-    },
-
-    {
-      question: "We had a piece of bread …",
-      answers: {
-        a: "for supper",
-        b: "for dinner",
-        c: "for lunch",
-      },
-      correctAnswer: "a"
-    },
-    {
-      question: "We read…",
-      answers: {
-        a: "the Bible",
-        b: "the text",
-        c: "the book",
-      },
-      correctAnswer: "a"
-    },
-    {
-      question: "In May school wasn’t…",
-      answers: {
-        a: "a sad place",
-        b: "a hospital",
-        c: "a happy place",
-      },
-      correctAnswer: "c"
-    },
-
-    {
-      question: "Many pupils didn’t…",
-      answers: {
-        a: "feel fine",
-        b: "go home",
-        c: "go from the school to die",
-      },
-      correctAnswer: "a"
+      correctAnswer: "d"
     },
   ];
 

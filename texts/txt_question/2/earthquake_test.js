@@ -75,117 +75,56 @@
   const subButton = document.getElementById("sub");
   const myQuestions = [
      {
-      question: "A man took my things.",
+      question: "The text probably came from",
       answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "b"
-    },
-    {
-      question: "The teacher took me into a short room.",
-      answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "b"
-    },
-     {
-      question: "Girls sat on chairs. It was very cold in the room",
-      answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "b"
-    },
-    {
-      question: "We didn’t go into the windy garden.",
-      answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "b"
-    },
-    {
-      question: "The water in the washroom wasn’t warm.",
-      answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "a"
-    },
-     {
-      question: "For dinner we had some bad meat and potatoes.",
-      answers: {
-        a: "True",
-        b: "False",
-      },
-      correctAnswer: "a"
-    },
-
-
-
-
-
-
-     {
-      question: "The room was with many…",
-      answers: {
-        a: "chairs",
-        b: "windows",
-        c: "tables",
-       
+        a: "a diary written by someone from California",
+        b: "a book about the Salvation Army",
+        c: "a newspaper article from another city",
+        d: "a magazine article about where to go in an earthquake",
       },
       correctAnswer: "c"
     },
     {
-      question: "The girls were dressed in…",
+      question: "In this passage “accommodation” is another way of saying",
       answers: {
-        a: "uniforms",
-        b: "dresses ",
-        c: "skirts and blouses",
-        
+        a: "a place to live",
+        b: "a new job",
+        c: "food and drinks",
+        d: "an automobile",
       },
       correctAnswer: "a"
     },
-
-    {
-      question: "We had a piece of bread …",
+     {
+      question: "Where is the safest place to be during an earthquake?",
       answers: {
-        a: "for supper",
-        b: "for dinner",
-        c: "for lunch",
+        a: "In the bathtub",
+        b: "In the basement",
+        c: "Under a table",
+        d: "In a doorway",
       },
-      correctAnswer: "a"
+      correctAnswer: "d"
     },
     {
-      question: "We read…",
+      question: "A synonym of “debris” is",
       answers: {
-        a: "the Bible",
-        b: "the text",
-        c: "the book",
+        a: "dirt",
+        b: "rubble",
+        c: "homes",
+        d: "trees",
       },
-      correctAnswer: "a"
+      correctAnswer: "b"
     },
     {
-      question: "In May school wasn’t…",
+      question: "There were problems with the rescue effort because",
       answers: {
-        a: "a sad place",
-        b: "a hospital",
-        c: "a happy place",
+        a: "there weren’t many sniffer dogs to help",
+        b: "rescuers did not know exactly what to do",
+        c: "there weren’t enough rescuers available",
+        d: "there weren’t enough cameras to find victims",
       },
       correctAnswer: "c"
     },
 
-    {
-      question: "Many pupils didn’t…",
-      answers: {
-        a: "feel fine",
-        b: "go home",
-        c: "go from the school to die",
-      },
-      correctAnswer: "a"
-    },
   ];
 
 
