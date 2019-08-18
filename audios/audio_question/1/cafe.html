@@ -18,6 +18,7 @@
 }
 .question{
           font-size: 81%;
+          margin-bottom: 2.8%;
         }
 .submit_button{
           font-size: 180%;
@@ -32,6 +33,7 @@
 }
  .question{
           font-size: 84%;
+          margin-bottom: 2.3%;
         }
         .submit_button{
           font-size: 200%;
@@ -46,6 +48,7 @@
         }
          .question{
           font-size: 88%;
+           margin-bottom: 1.5%;
         }
      }
 
@@ -72,9 +75,11 @@
   <form class="question_block">
     <ol class="question_list">
  <div id="quiz" class="question_div"></div>
-<div id="results"></div>
 </ol>
-<button type="button"  id="sub" class="submit_button" style="transform: translateY(82.5%);" > Готово</button>
+<div style="display: inline-block;">
+  <div style="float: left;"><button type="button"  id="sub" class="submit_button" style="transform: translateY(82.5%);" > Готово</button></div>
+  <div id="results" style="float: left;transform: translateY(70%);"></div>
+</div>
 <script src="cafe_test.js"></script>
 </form>
 </main>

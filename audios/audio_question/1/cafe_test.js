@@ -63,11 +63,10 @@
     });
 
     resultsContainer.innerHTML = 
-    `<hr>
+    `
       <div class="result_div">
-         <span class="result_text">Result:</span><br> 
-         <span class="result_count">${numCorrect}</span> <span class="slash">/</span><span class="result_count"> ${myQuestions.length}</span>
-      </div><hr>`;
+         <span class="result_text">Result:  <span style ="result_count">${numCorrect}</span> <span class="result_count1">/</span> <span  style ="result_count">${myQuestions.length}</span> </span>
+      </div>`;
   }
 
   const quizContainer = document.getElementById("quiz");

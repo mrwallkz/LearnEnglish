@@ -659,33 +659,39 @@ font-family: 'Bitter',cursive;;
   display: block;
 }
 .result_div{
-margin : 1% 0 0 35%;
+margin-left: 180%;
+display: inline-block;
+  text-align: center;
+  width: 120%;
+font-size: 130%;
+text-decoration: none;
+background-color: #fc7921;
+font-family: 'Fredoka One', cursive;
+text-shadow: 1.85px 1.85px 2.5px #000;
+border: ridge;
+border-color: black;
+border-width: 1px;
+border-radius: 22.5px;  
+    color: #fff; 
+padding:  0.525% 1.2%;
 }
 .result_text{
-color:#dbdbdb;
-margin-left: -8%;
+color:#fff;
 text-align: center;
 font-family: 'Fredoka One', cursive;
-text-shadow: 2.05px 2.05px 2.75px #474745;
-font-size: 200.5%;
+text-shadow: 1.85px 1.85px 2.5px #000;
+font-size: 167%;
 box-sizing: border-box;
 display: inline-block;
 vertical-align: middle;
 text-align: center;
 }
-.slash{
-      margin-left: 12px;
-      font-size: 2.5em; 
-      color: #000;
-      text-shadow: 2.85px 2.85px 0.25px #b3b1b1;
+.result_count1{
+color: #000; 
+text-shadow: 1.85px 1.85px 2.5px #b3b1b1;
 }
 .result_count{
 color: #ffa64d; 
-    font-size: 2.5em; 
-text-decoration: none;
-font-family: 'Fredoka one', cursive;
-margin-left: 0 20%;
-margin-top: 1%;
 text-shadow: 1.85px 1.85px 2.5px #302F2D;
 }
 .word_block{
@@ -1421,33 +1427,39 @@ font-family: 'Bitter',cursive;;
   display: block;
 }
 .result_div{
-margin : 1% 0 0 35%;
+margin-left: 100%;
+display: inline-block;
+  text-align: center;
+  width: 110%;
+font-size: 100%;
+text-decoration: none;
+background-color: #fc7921;
+font-family: 'Fredoka One', cursive;
+text-shadow: 1.85px 1.85px 2.5px #000;
+border: ridge;
+border-color: black;
+border-width: 1px;
+border-radius: 22.5px;  
+    color: #fff; 
+padding:  0.525% 1.2%;
 }
 .result_text{
-color:#dbdbdb;
-margin-left: -8%;
+color:#fff;
 text-align: center;
 font-family: 'Fredoka One', cursive;
-text-shadow: 2.05px 2.05px 2.75px #474745;
-font-size: 200.5%;
+text-shadow: 1.85px 1.85px 2.5px #000;
+font-size: 167%;
 box-sizing: border-box;
 display: inline-block;
 vertical-align: middle;
 text-align: center;
 }
-.slash{
-      margin-left: 12px;
-      font-size: 2.5em; 
-      color: #000;
-      text-shadow: 2.85px 2.85px 0.25px #b3b1b1;
+.result_count1{
+color: #000; 
+text-shadow: 1.85px 1.85px 2.5px #b3b1b1;
 }
 .result_count{
 color: #ffa64d; 
-    font-size: 2.5em; 
-text-decoration: none;
-font-family: 'Fredoka one', cursive;
-margin-left: 0 20%;
-margin-top: 1%;
 text-shadow: 1.85px 1.85px 2.5px #302F2D;
 }
 .word_block{
@@ -2188,34 +2200,39 @@ font-family: 'Bitter',cursive;;
   display: block;
 }
 .result_div{
-margin : 1% 36.5% 0 36.5%;
+margin-left: 130%;
+display: inline-block;
+  text-align: center;
+  width: 110%;
+font-size: 120%;
+text-decoration: none;
+background-color: #fc7921;
+font-family: 'Fredoka One', cursive;
+text-shadow: 1.85px 1.85px 2.5px #000;
+border: ridge;
+border-color: black;
+border-width: 1px;
+border-radius: 22.5px;  
+    color: #fff; 
+padding:  0.525% 1.2%;
 }
-
 .result_text{
-color:#dbdbdb;
-margin-left: -8%;
+color:#fff;
 text-align: center;
 font-family: 'Fredoka One', cursive;
-text-shadow: 2.05px 2.05px 2.75px #474745;
-font-size: 175.5%;
+text-shadow: 1.85px 1.85px 2.5px #000;
+font-size: 167%;
 box-sizing: border-box;
 display: inline-block;
 vertical-align: middle;
 text-align: center;
 }
-.slash{
-      margin-left: 12px;
-      font-size: 225%;
-      color: #000;
-      text-shadow: 2.85px 2.85px 0.25px #b3b1b1;
+.result_count1{
+color: #000; 
+text-shadow: 1.85px 1.85px 2.5px #b3b1b1;
 }
 .result_count{
 color: #ffa64d; 
-    font-size: 225%;
-text-decoration: none;
-font-family: 'Fredoka one', cursive;
-margin-left: 0 20%;
-margin-top: 1%;
 text-shadow: 1.85px 1.85px 2.5px #302F2D;
 }
 .word_block{
@@ -2248,7 +2265,14 @@ text-shadow: 1.85px 1.85px 2.5px #302F2D;
     vertical-align: top; 
      border-bottom: 0.5px solid #f4f4f4;
    }
-
+.top_div{
+  float:left;
+}
+.bottom_div{
+   float:left; 
+   clear: left;
+    margin-top: 1.7%;
+}
     }
 
 
@@ -3028,33 +3052,39 @@ font-family: 'Bitter',cursive;;
   display: block;
 }
 .result_div{
-margin : 1% 37.5% 0 37.5%;
+margin-left: 180%;
+display: inline-block;
+  text-align: center;
+  width: 120%;
+font-size: 130%;
+text-decoration: none;
+background-color: #fc7921;
+font-family: 'Fredoka One', cursive;
+text-shadow: 1.85px 1.85px 2.5px #000;
+border: ridge;
+border-color: black;
+border-width: 1px;
+border-radius: 22.5px;  
+    color: #fff; 
+padding:  0.525% 1.2%;
 }
 .result_text{
-color:#dbdbdb;
-margin-left: -8%;
+color:#fff;
 text-align: center;
 font-family: 'Fredoka One', cursive;
-text-shadow: 2.05px 2.05px 2.75px #474745;
-font-size: 200.5%;
+text-shadow: 1.85px 1.85px 2.5px #000;
+font-size: 167%;
 box-sizing: border-box;
 display: inline-block;
 vertical-align: middle;
 text-align: center;
 }
-.slash{
-      margin-left: 12px;
-      font-size: 2.5em; 
-      color: #000;
-      text-shadow: 2.85px 2.85px 0.25px #b3b1b1;
+.result_count1{
+color: #000; 
+text-shadow: 1.85px 1.85px 2.5px #b3b1b1;
 }
 .result_count{
 color: #ffa64d; 
-    font-size: 2.5em; 
-text-decoration: none;
-font-family: 'Fredoka one', cursive;
-margin-left: 0 20%;
-margin-top: 1%;
 text-shadow: 1.85px 1.85px 2.5px #302F2D;
 }
 .word_block{
@@ -3791,33 +3821,39 @@ font-family: 'Bitter',cursive;;
   display: block;
 }
 .result_div{
-margin : 1% 37.5% 0 37.5%;
+margin-left: 180%;
+display: inline-block;
+  text-align: center;
+  width: 120%;
+font-size: 130%;
+text-decoration: none;
+background-color: #fc7921;
+font-family: 'Fredoka One', cursive;
+text-shadow: 1.85px 1.85px 2.5px #000;
+border: ridge;
+border-color: black;
+border-width: 1px;
+border-radius: 22.5px;  
+    color: #fff; 
+padding:  0.525% 1.2%;
 }
 .result_text{
-color:#dbdbdb;
-margin-left: -8%;
+color:#fff;
 text-align: center;
 font-family: 'Fredoka One', cursive;
-text-shadow: 2.05px 2.05px 2.75px #474745;
-font-size: 200.5%;
+text-shadow: 1.85px 1.85px 2.5px #000;
+font-size: 167%;
 box-sizing: border-box;
 display: inline-block;
 vertical-align: middle;
 text-align: center;
 }
-.slash{
-      margin-left: 12px;
-      font-size: 2.5em; 
-      color: #000;
-      text-shadow: 2.85px 2.85px 0.25px #b3b1b1;
+.result_count1{
+color: #000; 
+text-shadow: 1.85px 1.85px 2.5px #b3b1b1;
 }
 .result_count{
 color: #ffa64d; 
-    font-size: 2.5em; 
-text-decoration: none;
-font-family: 'Fredoka one', cursive;
-margin-left: 0 20%;
-margin-top: 1%;
 text-shadow: 1.85px 1.85px 2.5px #302F2D;
 }
 .word_block{
