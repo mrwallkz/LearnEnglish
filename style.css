@@ -574,7 +574,9 @@ width: 100%;
   cursor: pointer;
   background-color: #000;
 }
-
+.vertical_text{
+	position: relative;top: 32%
+}
 .dropbtn:hover, .dropbtn:focus {
 outline:0;
 }
@@ -739,12 +741,8 @@ font-family: 'Bitter',cursive;;
     
     @media only screen and (min-width: 481px) and (max-width: 959px) {
        a.div_block:hover {
-border: 5.5px solid transparent;
-  border-color: #ffa64d;
-  border-radius: 25px;
-   text-decoration: none;
-   color: #302F2D;
-
+  text-decoration: none;
+  color: #302F2D;
 }
 a.div_block:active {
  border: 5.5px solid transparent;
@@ -765,35 +763,44 @@ a.div_block:active {
 }
 .main_header_div{
 text-align: center;
-font-size: 180%;
+font-size: 205%;
 vertical-align: middle;
 text-decoration: none;
 font-family: 'Fredoka One', cursive;
 color: #f2f2f2;
 height: 130px;
+text-shadow: 1.1px 1.1px 1.5px #000;
 background-color:#ffa64d; 
-margin: 3.5% 25% 0.5% 25%;
-padding: 6%;
+margin: 3% 5% 10% 5%;
 border-radius: 45px;
 border: ridge  #bfbfbf; 
 background-image: url("https://ui-ex.com/images/banners-vector-website-4.png");
+}
+.vertical_text{
+	position: relative;top: 32%
 }
 .main_body{
   background-color: #e6e6e6;
   background-image: url("https://pngimage.net/wp-content/uploads/2018/06/website-background-png-5.png");
 }
 .div_block{
+border: 0.4px ridge transparent;
+border-color: #adadad; 
+border-radius: 25px;
+text-decoration: none;
 text-align: center;
 font-size: 85%;
+background-color: #e7e7e7;
 font-family: 'Fredoka One', cursive;
- border-bottom-style:  solid;
-  border-bottom-width: 5px;
-  border-bottom-color: #ffa64d;
+ text-shadow: 0.8px 0.8px 1.5px #fff;
 box-sizing: border-box;
 display: inline-block;
 width: 32%;
 padding: 1%;
-margin: 0px 0.5%;
+box-shadow: 
+	0 0 0 2px #ffa64d,
+	0 0 0 1.9px #000;
+margin: 0px 1%;
 color: #393836;
 }
 .font_main{
@@ -802,7 +809,8 @@ font-family: 'Fredoka One', cursive;
 }
 .main_div{
 align-self: center;
-margin: 0px 19%;
+margin-left: 7%
+
 }
 .main_div_word{
 align-self: center;
@@ -1492,10 +1500,15 @@ a.div_block:active {
   width: 100%;
   position: fixed;
 }
+.vertical_text{
+	position: relative;
+	padding: 0;
+}
 .main_header_div{
 text-align: center;
 font-size: 305%;
 text-decoration: none;
+text-shadow: 1.1px 1.1px 1.5px #000;
 font-family: 'Fredoka One', cursive;
 color: #f2f2f2;
 height: 285px;
@@ -1532,6 +1545,8 @@ font-family: 'Fredoka One', cursive;
 .main_div{
 align-self: center;
 margin: 0px 19%;
+margin: 0px 22% 0px 27%;
+
 }
 .main_div_word{
 align-self: center;
@@ -2328,9 +2343,10 @@ text-decoration: none;
 font-family: 'Fredoka One', cursive;
 color: #f2f2f2;
 height: 345px;
+text-shadow: 1.1px 1.1px 1.5px #000;
 background-color:#ffa64d; 
 margin: 3.5% 25% 0.5% 25%;
-padding: 6%;
+padding: 50%
 border-radius: 45px;
 border: ridge  #bfbfbf; 
 background-image: url("https://ui-ex.com/images/banners-vector-website-4.png");
@@ -2339,7 +2355,9 @@ background-image: url("https://ui-ex.com/images/banners-vector-website-4.png");
   background-color: #e6e6e6;
   background-image: url("https://pngimage.net/wp-content/uploads/2018/06/website-background-png-5.png");
 }
-
+.vertical_text{
+	position: relative;top:-20%;
+}
 .div_block{
 text-align: center;
 font-size: 2em;
@@ -2349,7 +2367,7 @@ font-family: 'Fredoka One', cursive;
   border-bottom-color: #ffa64d;
 box-sizing: border-box;
 display: inline-block;
-width: 32%;
+width: 50%;
 padding: 1%;
 margin: 0px 0.5%;
 color: #393836;
@@ -2361,6 +2379,8 @@ font-family: 'Fredoka One', cursive;
 .main_div{
 align-self: center;
 margin: 0px 19%;
+margin: 0px 22% 0px 27%;
+
 }
 .main_div_word{
 align-self: center;
@@ -2381,7 +2401,7 @@ margin: 0px 19%;
   margin-right: auto;
   width: 20%;
 }
-.search_topic{
+.search_topisc{
   display: block;
   margin-left: auto;
   margin-right: auto; 
@@ -3057,6 +3077,7 @@ a.div_block:active {
 .main_header_div{
 text-align: center;
 font-size: 450%;
+text-shadow: 1.1px 1.1px 1.5px #000;
 text-decoration: none;
 font-family: 'Fredoka One', cursive;
 color: #f2f2f2;
@@ -3094,6 +3115,7 @@ font-family: 'Fredoka One', cursive;
 .main_div{
 align-self: center;
 margin: 0px 19%;
+margin: 0px 22% 0px 27%;
 }
 .main_div_word{
 align-self: center;
