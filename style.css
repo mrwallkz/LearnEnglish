@@ -54,7 +54,7 @@ background-image: url("https://ui-ex.com/images/banners-vector-website-4.png");
    width: 30vw;
 }
 .adaptive_text{
-  font-size:10vw;
+  font-size:8vw;
 }
 .adaptive_text2{
   font-size:16vw;
@@ -84,7 +84,6 @@ margin: 0px 1.5%;
 color: #393836;
 }
 .font_main{
-  font-size: 150%;
 font-family: 'Fredoka One', cursive;
 }
 .main_div{
