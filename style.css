@@ -49,6 +49,19 @@ background-image: url("https://ui-ex.com/images/banners-vector-website-4.png");
   background-color: #e6e6e6;
   background-image: url("https://pngimage.net/wp-content/uploads/2018/06/website-background-png-5.png");
 }
+.img_main{
+   height:17vh;
+   width: 30vw;
+}
+.adaptive_text{
+  font-size:10vw;
+}
+.adaptive_text2{
+  font-size:16vw;
+}
+.adaptive_size{
+  height: 13vh;
+}
 .div_block{
 border: 0.4px ridge transparent;
 border-color: #adadad; 
@@ -733,6 +746,11 @@ border: 5.5px solid transparent;
    text-decoration: none;
    color: #302F2D;
 
+}
+.img_main{
+   height: 40%;
+   width: 55%;  
+   padding: 0.7% 0.7% 0.7% 7%;
 }
 a.div_block:active {
  border: 5.5px solid transparent;
@@ -1597,6 +1615,11 @@ border-radius: 45px;
 border: ridge  #bfbfbf; 
 background-image: url("https://ui-ex.com/images/banners-vector-website-4.png");
 }
+.img_main{
+   height: 40%;
+   width: 55%;  
+   padding: 0.7% 0.7% 0.7% 7%;
+}
 .main_body{
   background-color: #e6e6e6;
   background-image: url("https://pngimage.net/wp-content/uploads/2018/06/website-background-png-5.png");
@@ -2353,6 +2376,11 @@ width: 32%;
 padding: 1%;
 margin: 0px 0.5%;
 color: #393836;
+}
+.img_main{
+   height: 40%;
+   width: 55%;  
+   padding: 0.7% 0.7% 0.7% 7%;
 }
 .font_main{
   font-size: 150%;
