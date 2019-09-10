@@ -197,7 +197,7 @@ a.div_themes:active {
 font-size: 190%;
 text-decoration: none;
 font-family: 'Fredoka One', cursive;
-margin: 0px 30%;
+margin: auto;
 text-shadow: 1.85px 1.85px 2.5px #302F2D; 
     color: #ffa64d; 
     }
@@ -845,7 +845,6 @@ background-color: #efefef;
   border-color: #969696;
   width: 56.5%;
   height: 25%;
- margin: 0 15%;
  
 }
 .container{
@@ -913,10 +912,10 @@ a.div_themes:active {
 }
 .recommend_topics{
   text-align: center;
-font-size: 250%;
+font-size: 265%;
 text-decoration: none;
 font-family: 'Fredoka One', cursive;
-margin: 0px 35%;
+margin: auto;
 text-shadow: 1.85px 1.85px 2.5px #302F2D; 
     color: #ffa64d; 
    
@@ -1689,7 +1688,7 @@ a.div_themes:active {
 font-size: 250%;
 text-decoration: none;
 font-family: 'Fredoka One', cursive;
-margin: 0px 35%;
+margin: auto;
 text-shadow: 1.85px 1.85px 2.5px #302F2D; 
     color: #ffa64d; 
    
@@ -2555,7 +2554,7 @@ a.div_themes:active {
 font-size: 265%;
 text-decoration: none;
 font-family: 'Fredoka One', cursive;
-margin: 0px 40%;
+margin: auto;
 text-shadow: 1.85px 1.85px 2.5px #302F2D; 
     color: #ffa64d; 
     
@@ -3297,7 +3296,7 @@ a.div_themes:active {
 font-size: 265%;
 text-decoration: none;
 font-family: 'Fredoka One', cursive;
-margin: 0px 40%;
+margin: auto;
 text-shadow: 1.85px 1.85px 2.5px #302F2D; 
     color: #ffa64d; 
     
